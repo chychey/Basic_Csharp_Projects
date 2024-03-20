@@ -26,50 +26,25 @@ namespace BooleanLogic.cs
 
             //Console.ReadLine();
 
-            int yearsOld = 15;
 
             Console.WriteLine("What is your age?");
-            string age = Console.ReadLine();
+            int age = Convert.ToInt32(Console.ReadLine());
 
-           
-            Console.WriteLine( age + "You are old enough");
-            int yearsOld = Convert.ToInt32(Console.ReadLine());
-            }
-            else
-            {
-                Console.WriteLine("you are not old enough!");
-                Console.ReadLine();
-            }
-            
-            
+            Console.WriteLine("Have you ever had a DUI? Answer True/False");
+            bool yesNo = Convert.ToBoolean(Console.ReadLine());
 
-            Console.WriteLine("Have you ever had a DUI?");
-
-            
-
-            
-            Console.ReadLine();
             Console.WriteLine("Have many speeding tickets do you have?");
-
-            int num = 0;
-
-            if (num <= 3)
-            {
-                Console.WriteLine("You don't have over the amount of tickets to not be eligible");
-            }
-            else
-            {
-                Console.WriteLine("You have too many tickets to be eligible");
-                Console.ReadLine();
-            }
-
+            int tickets = Convert.ToInt32(Console.ReadLine());
             
+            Console.WriteLine("Qualified?");
+            Console.WriteLine(age >= 16 && yesNo == false && tickets <= 3);
+            Console.ReadLine();
 
             
             
-
-
-           
+                
         }
     }
 }
+           
+      
