@@ -1,0 +1,7 @@
+C:\Users\green\OneDrive\Documents\my project\elseif\elseif\bin\Debug\elseif.exe.config
+C:\Users\green\OneDrive\Documents\my project\elseif\elseif\bin\Debug\elseif.exe
+C:\Users\green\OneDrive\Documents\my project\elseif\elseif\bin\Debug\elseif.pdb
+C:\Users\green\OneDrive\Documents\my project\elseif\elseif\obj\Debug\elseif.csproj.AssemblyReference.cache
+C:\Users\green\OneDrive\Documents\my project\elseif\elseif\obj\Debug\elseif.csproj.CoreCompileInputs.cache
+C:\Users\green\OneDrive\Documents\my project\elseif\elseif\obj\Debug\elseif.exe
+C:\Users\green\OneDrive\Documents\my project\elseif\elseif\obj\Debug\elseif.pdb

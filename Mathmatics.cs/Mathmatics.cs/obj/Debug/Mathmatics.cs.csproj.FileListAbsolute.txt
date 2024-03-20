@@ -1,0 +1,7 @@
+C:\Users\green\OneDrive\Documents\my project\Basic_C#_Programs\Mathmatics.cs\Mathmatics.cs\obj\Debug\Mathmatics.cs.csproj.AssemblyReference.cache
+C:\Users\green\OneDrive\Documents\my project\Basic_C#_Programs\Mathmatics.cs\Mathmatics.cs\obj\Debug\Mathmatics.cs.csproj.CoreCompileInputs.cache
+C:\Users\green\OneDrive\Documents\my project\Basic_C#_Programs\Mathmatics.cs\Mathmatics.cs\bin\Debug\Mathmatics.cs.exe.config
+C:\Users\green\OneDrive\Documents\my project\Basic_C#_Programs\Mathmatics.cs\Mathmatics.cs\bin\Debug\Mathmatics.cs.exe
+C:\Users\green\OneDrive\Documents\my project\Basic_C#_Programs\Mathmatics.cs\Mathmatics.cs\bin\Debug\Mathmatics.cs.pdb
+C:\Users\green\OneDrive\Documents\my project\Basic_C#_Programs\Mathmatics.cs\Mathmatics.cs\obj\Debug\Mathmatics.cs.exe
+C:\Users\green\OneDrive\Documents\my project\Basic_C#_Programs\Mathmatics.cs\Mathmatics.cs\obj\Debug\Mathmatics.cs.pdb
