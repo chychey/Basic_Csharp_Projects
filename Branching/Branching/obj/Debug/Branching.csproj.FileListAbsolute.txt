@@ -5,3 +5,10 @@ C:\Users\green\source\repos\Branching\Branching\obj\Debug\Branching.csproj.Assem
 C:\Users\green\source\repos\Branching\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
 C:\Users\green\source\repos\Branching\Branching\obj\Debug\Branching.exe
 C:\Users\green\source\repos\Branching\Branching\obj\Debug\Branching.pdb
+C:\Basic_Csharp_Projects\Branching\Branching\bin\Debug\Branching.exe.config
+C:\Basic_Csharp_Projects\Branching\Branching\bin\Debug\Branching.exe
+C:\Basic_Csharp_Projects\Branching\Branching\bin\Debug\Branching.pdb
+C:\Basic_Csharp_Projects\Branching\Branching\obj\Debug\Branching.csproj.AssemblyReference.cache
+C:\Basic_Csharp_Projects\Branching\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
+C:\Basic_Csharp_Projects\Branching\Branching\obj\Debug\Branching.exe
+C:\Basic_Csharp_Projects\Branching\Branching\obj\Debug\Branching.pdb
