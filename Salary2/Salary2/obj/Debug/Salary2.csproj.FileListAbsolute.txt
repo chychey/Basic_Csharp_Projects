@@ -1,0 +1,7 @@
+C:\Basic_Csharp_Projects\Salary2\Salary2\bin\Debug\Salary2.exe.config
+C:\Basic_Csharp_Projects\Salary2\Salary2\bin\Debug\Salary2.exe
+C:\Basic_Csharp_Projects\Salary2\Salary2\bin\Debug\Salary2.pdb
+C:\Basic_Csharp_Projects\Salary2\Salary2\obj\Debug\Salary2.csproj.AssemblyReference.cache
+C:\Basic_Csharp_Projects\Salary2\Salary2\obj\Debug\Salary2.csproj.CoreCompileInputs.cache
+C:\Basic_Csharp_Projects\Salary2\Salary2\obj\Debug\Salary2.exe
+C:\Basic_Csharp_Projects\Salary2\Salary2\obj\Debug\Salary2.pdb
