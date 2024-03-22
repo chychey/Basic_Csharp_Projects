@@ -10,9 +10,19 @@ namespace Loops
     {
         static void Main(string[] args)
         {
+
+            int i = 0;
+            while (i < 300)
+            {
+                Console.WriteLine(i);
+                i++;
+            }
+
             Console.WriteLine("Guess my favorite number?");
             int number = Convert.ToInt32(Console.ReadLine());
             bool isGuessed = number == 222;
+
+            
 
             do
             {

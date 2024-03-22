@@ -1,0 +1,7 @@
+C:\Basic_Csharp_Projects\StringandArrays\StringandArrays\bin\Debug\StringandArrays.exe.config
+C:\Basic_Csharp_Projects\StringandArrays\StringandArrays\bin\Debug\StringandArrays.exe
+C:\Basic_Csharp_Projects\StringandArrays\StringandArrays\bin\Debug\StringandArrays.pdb
+C:\Basic_Csharp_Projects\StringandArrays\StringandArrays\obj\Debug\ArraysAndLists.csproj.AssemblyReference.cache
+C:\Basic_Csharp_Projects\StringandArrays\StringandArrays\obj\Debug\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Basic_Csharp_Projects\StringandArrays\StringandArrays\obj\Debug\StringandArrays.exe
+C:\Basic_Csharp_Projects\StringandArrays\StringandArrays\obj\Debug\StringandArrays.pdb
