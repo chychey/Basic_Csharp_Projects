@@ -1,0 +1,7 @@
+C:\Basic_Csharp_Projects\StringChallenge\StringChallenge\bin\Debug\StringChallenge.exe.config
+C:\Basic_Csharp_Projects\StringChallenge\StringChallenge\bin\Debug\StringChallenge.exe
+C:\Basic_Csharp_Projects\StringChallenge\StringChallenge\bin\Debug\StringChallenge.pdb
+C:\Basic_Csharp_Projects\StringChallenge\StringChallenge\obj\Debug\StringChallenge.csproj.AssemblyReference.cache
+C:\Basic_Csharp_Projects\StringChallenge\StringChallenge\obj\Debug\StringChallenge.csproj.CoreCompileInputs.cache
+C:\Basic_Csharp_Projects\StringChallenge\StringChallenge\obj\Debug\StringChallenge.exe
+C:\Basic_Csharp_Projects\StringChallenge\StringChallenge\obj\Debug\StringChallenge.pdb
