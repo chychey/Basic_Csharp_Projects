@@ -50,7 +50,8 @@ namespace ArrayAssignment
 
             Console.WriteLine(intList[0]);
             Console.ReadLine();
-            if (intList < intList.Length)
+            int number3 = Convert.ToInt32(Console.ReadLine());
+            if (number3 < intList.Count)
             {
 
                 Console.WriteLine(number[number2]);

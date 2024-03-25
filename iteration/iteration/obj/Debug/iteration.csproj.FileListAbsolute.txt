@@ -1,0 +1,7 @@
+C:\Basic_Csharp_Projects\iteration\iteration\bin\Debug\iteration.exe.config
+C:\Basic_Csharp_Projects\iteration\iteration\bin\Debug\iteration.exe
+C:\Basic_Csharp_Projects\iteration\iteration\bin\Debug\iteration.pdb
+C:\Basic_Csharp_Projects\iteration\iteration\obj\Debug\iteration.csproj.AssemblyReference.cache
+C:\Basic_Csharp_Projects\iteration\iteration\obj\Debug\iteration.csproj.CoreCompileInputs.cache
+C:\Basic_Csharp_Projects\iteration\iteration\obj\Debug\iteration.exe
+C:\Basic_Csharp_Projects\iteration\iteration\obj\Debug\iteration.pdb
