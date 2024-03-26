@@ -1,0 +1,7 @@
+C:\Basic_Csharp_Projects\Callingmethods\Callingmethods\bin\Debug\Callingmethods.exe.config
+C:\Basic_Csharp_Projects\Callingmethods\Callingmethods\bin\Debug\Callingmethods.exe
+C:\Basic_Csharp_Projects\Callingmethods\Callingmethods\bin\Debug\Callingmethods.pdb
+C:\Basic_Csharp_Projects\Callingmethods\Callingmethods\obj\Debug\Callingmethods.csproj.AssemblyReference.cache
+C:\Basic_Csharp_Projects\Callingmethods\Callingmethods\obj\Debug\Callingmethods.csproj.CoreCompileInputs.cache
+C:\Basic_Csharp_Projects\Callingmethods\Callingmethods\obj\Debug\Callingmethods.exe
+C:\Basic_Csharp_Projects\Callingmethods\Callingmethods\obj\Debug\Callingmethods.pdb
