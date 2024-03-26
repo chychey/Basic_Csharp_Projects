@@ -10,6 +10,7 @@ namespace TwentyOne
     {
         public Deck()
         {
+            Cards = new List<Card>();
             List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamonds", "Spades" };
             List<string> Faces = new List<string>()
             {
