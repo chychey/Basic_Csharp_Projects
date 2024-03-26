@@ -1,0 +1,7 @@
+C:\Basic_Csharp_Projects\IntstringAssignment\IntstringAssignment\bin\Debug\IntstringAssignment.exe.config
+C:\Basic_Csharp_Projects\IntstringAssignment\IntstringAssignment\bin\Debug\IntstringAssignment.exe
+C:\Basic_Csharp_Projects\IntstringAssignment\IntstringAssignment\bin\Debug\IntstringAssignment.pdb
+C:\Basic_Csharp_Projects\IntstringAssignment\IntstringAssignment\obj\Debug\IntstringAssignment.csproj.AssemblyReference.cache
+C:\Basic_Csharp_Projects\IntstringAssignment\IntstringAssignment\obj\Debug\IntstringAssignment.csproj.CoreCompileInputs.cache
+C:\Basic_Csharp_Projects\IntstringAssignment\IntstringAssignment\obj\Debug\IntstringAssignment.exe
+C:\Basic_Csharp_Projects\IntstringAssignment\IntstringAssignment\obj\Debug\IntstringAssignment.pdb
