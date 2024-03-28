@@ -1,0 +1,7 @@
+C:\Basic_Csharp_Projects\MethodAndObjects\MethodAndObjects\obj\Debug\MethodAndObjects.csproj.AssemblyReference.cache
+C:\Basic_Csharp_Projects\MethodAndObjects\MethodAndObjects\obj\Debug\MethodAndObjects.csproj.CoreCompileInputs.cache
+C:\Basic_Csharp_Projects\MethodAndObjects\MethodAndObjects\bin\Debug\MethodAndObjects.exe.config
+C:\Basic_Csharp_Projects\MethodAndObjects\MethodAndObjects\bin\Debug\MethodAndObjects.exe
+C:\Basic_Csharp_Projects\MethodAndObjects\MethodAndObjects\bin\Debug\MethodAndObjects.pdb
+C:\Basic_Csharp_Projects\MethodAndObjects\MethodAndObjects\obj\Debug\MethodAndObjects.exe
+C:\Basic_Csharp_Projects\MethodAndObjects\MethodAndObjects\obj\Debug\MethodAndObjects.pdb
