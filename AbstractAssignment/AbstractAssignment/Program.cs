@@ -10,13 +10,15 @@ namespace AbstractAssignment
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee //Instantiate an Employee object
+            IQuittable1
+            newEmployee = new Employee //Instantiate an Employee object
             {
-                FirstName = "Sample",
-                LastName = "Student",
-            };
+                newEmployee.FirstName = "Cat";
+                newEmployee.LastName = "Smith";
+            
 
-            employee.SayName(); //Call SayName method
+            newEmployee.Quit(); //Call SayName method
+            Console.ReadLine();
 
         }
 

@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AbstractAssignment
+namespace AbstractAssignment 
 {
-    class Employee : Person //Derived class (employee) Inheriting from person
+    class Employee : Person, IQuittable1 //Derived class (employee) Inheriting from person
     {
-        //implementing the SayName method
-        public override void SayName()
-        {
-            Console.WriteLine($"Emplyee's name: {FirstName} {LastName}");
-        }
+        public void Quit();//implementing the SayName method
+
     }
-}
+            Console.WriteLine($"Employee's name: {FirstName} {LastName} has quit.");
+        }
+    
+
